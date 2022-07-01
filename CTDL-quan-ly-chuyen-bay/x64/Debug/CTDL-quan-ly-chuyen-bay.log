@@ -1,0 +1,75 @@
+﻿  main.cpp
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\veMenu.h(98,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\veMenu.h(99,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\veMenu.h(434,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\veMenu.h(435,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\veMenu.h(483,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\xuLiFile.h(87,6): warning C4101: 'n': unreferenced local variable
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\mayBay.h(17,1): warning C4005: 'DELETE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(8989): message : see previous definition of 'DELETE'
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\mayBay.h(48,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\mayBay.h(94,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\mayBay.h(152,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\mayBay.h(201,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\mayBay.h(250,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\mayBay.h(282,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\mayBay.h(337,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\mayBay.h(395,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\mayBay.h(444,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(190,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(236,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(285,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(316,10): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(370,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(399,10): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(443,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(472,10): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(515,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(544,10): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(596,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(625,10): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(671,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(702,10): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(748,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(779,10): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(820,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(851,10): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(968,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(1020,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(1071,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(1177,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(917,8): warning C4102: 'QUAYLAI': unreferenced label
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\chuyenBay.h(1507,6): warning C4101: 'temp': unreferenced local variable
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(575,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(648,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(810,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(838,5): warning C4102: 'XUAT': unreferenced label
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(1084,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(1123,11): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(1256,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(1453,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(1553,6): warning C4102: 'THOAT': unreferenced label
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(1065,10): warning C4101: 'nodeCb': unreferenced local variable
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(1577,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(1617,11): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(1640,11): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(1702,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\datHuyVe.h(1839,6): warning C4102: 'THOAT': unreferenced label
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\danhSachHK.h(24,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\danhSachHK.h(56,11): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\danhSachHK.h(160,4): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\timChuyenBayTheoNgayGioVaNoiDen.h(74,47): warning C4309: 'argument': truncation of constant value
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\timChuyenBayTheoNgayGioVaNoiDen.h(106,46): warning C4309: 'argument': truncation of constant value
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\timChuyenBayTheoNgayGioVaNoiDen.h(138,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\timChuyenBayTheoNgayGioVaNoiDen.h(198,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\timChuyenBayTheoNgayGioVaNoiDen.h(258,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\timChuyenBayTheoNgayGioVaNoiDen.h(329,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\inVeTrong.h(21,7): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\inVeTrong.h(53,10): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\menu.h(209,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\menu.h(247,8): warning C4551: function call missing argument list
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\menu.h(269,11): warning C4551: function call missing argument list
+  mylib.cpp
+  Generating Code...
+C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay\mylib.cpp(9): warning C4172: returning address of local variable or temporary: S
+  CTDL-quan-ly-chuyen-bay.vcxproj -> C:\Users\ADMIN\Downloads\CTDL-quan-ly-chuyen-bayyy (1)\CTDL-quan-ly-chuyen-bayyy\CTDL-quan-ly-chuyen-bay\x64\Debug\CTDL-quan-ly-chuyen-bay.exe

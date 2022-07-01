@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CTDL-quan-ly-chuyen-bay", "CTDL-quan-ly-chuyen-bay\CTDL-quan-ly-chuyen-bay.vcxproj", "{435D3EDF-F3A9-4A0C-9D5E-E12E8EE4E560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{435D3EDF-F3A9-4A0C-9D5E-E12E8EE4E560}.Debug|x64.ActiveCfg = Debug|x64
+		{435D3EDF-F3A9-4A0C-9D5E-E12E8EE4E560}.Debug|x64.Build.0 = Debug|x64
+		{435D3EDF-F3A9-4A0C-9D5E-E12E8EE4E560}.Debug|x86.ActiveCfg = Debug|Win32
+		{435D3EDF-F3A9-4A0C-9D5E-E12E8EE4E560}.Debug|x86.Build.0 = Debug|Win32
+		{435D3EDF-F3A9-4A0C-9D5E-E12E8EE4E560}.Release|x64.ActiveCfg = Release|x64
+		{435D3EDF-F3A9-4A0C-9D5E-E12E8EE4E560}.Release|x64.Build.0 = Release|x64
+		{435D3EDF-F3A9-4A0C-9D5E-E12E8EE4E560}.Release|x86.ActiveCfg = Release|Win32
+		{435D3EDF-F3A9-4A0C-9D5E-E12E8EE4E560}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A8F9034-A0DC-4D36-91C5-6A6E96E3D52A}
+	EndGlobalSection
+EndGlobal
